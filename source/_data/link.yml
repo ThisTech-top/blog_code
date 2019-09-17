@@ -1,0 +1,13 @@
+class:
+  class_name: 友情鏈接
+  link_list:
+    1:
+      name: JerryC
+      link: https://jerryc.me/
+      avatar: https://jerryc.me/img/avatar.png
+      descr: 大佬大佬
+    2:
+      name: xxxxxx
+      link: https://www.xxxxxxcn/
+      avatar: https://xxxxx/avatar.png
+      descr: xxxxxxx
